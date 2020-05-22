@@ -8,6 +8,6 @@ Program 2:
 
          1) Converting Images to multi-dimensional arrays with Numpy and OpenCV. 
          2) Converting multi-dimensional arrays to images with Numpy and OpenCV.
-         3) Computer Generated Images
+         3) Creating Computer Generated Images
         
 
